@@ -1,0 +1,21 @@
+GEM
+  specs:
+    rack (1.6.5)
+    rack-protection (1.5.3)
+      rack
+    redis (3.3.3)
+    sinatra (1.4.8)
+      rack (~> 1.5)
+      rack-protection (~> 1.4)
+      tilt (>= 1.3, < 3)
+    tilt (2.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis (= 3.3.3)
+  sinatra (= 1.4.8)
+
+BUNDLED WITH
+   1.14.3
